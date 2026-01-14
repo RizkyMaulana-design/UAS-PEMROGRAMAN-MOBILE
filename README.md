@@ -14,6 +14,16 @@
 
 ---
 
+Berikut adalah tautan penting terkait pengerjaan dan pengumpulan tugas ini:
+
+* **📄 Link Repository (GitHub):** [Link Repository GitHub](https://github.com/RizkyMaulana-design/UAS-PEMROGRAMAN-MOBILE)
+* **📅 Link ClickUp (Timeline):** [Link Timeline Project](https://app.clickup.com/90182002125/v/li/901813029359)
+* **🎥 Link Youtube 1 (Splash Screen):** [https://youtu.be/LINK_VIDEO_SPLASH_SCREEN](https://youtu.be/LINK_VIDEO_SPLASH_SCREEN)
+* **🎥 Link Youtube 2 (Full Project):** [https://youtu.be/Cy6R3THufEM](https://youtu.be/Cy6R3THufEM)
+* **🌐 E-Campus:** [https://ecampus.pelitabangsa.ac.id/](https://ecampus.pelitabangsa.ac.id/)
+
+---
+
 ## 1. Splash Screen
 ** Deteksi location, Bendera/logo pemda, Say Hello sesuai lokasi daerah masing-masing **
 
@@ -76,6 +86,12 @@ Demonstrasi penggunaan aplikasi KyynAi dapat dilihat melalui video berikut:
 [![Video Prototype KyynAi](https://youtu.be/Cy6R3THufEM)
 
 *(Klik link yt di atas untuk memutar video)*
+
+---
+
+## 7. Link Repository & ClickUp
+
+<img width="960" height="540" alt="time line" src="https://github.com/user-attachments/assets/ff7b57ea-feca-4caf-a3bd-b7a988105a18" />
 
 
 ---
